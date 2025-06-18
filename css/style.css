@@ -58,9 +58,10 @@
 .navbar .navbar-nav .nav-item .nav-link:last-child{
     padding-right: 0;
 }
-.active{
-    color:#c44095;
-}
+.nav-link.active {
+    color: #f24259 !important;
+    font-weight: bold;
+  }
 
 
 #header h3{
